@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm Durgesh Pawar, a beginner-level native Android developer. I have developed some small projects using Kotlin. I'm passionate about learning new skills and building mobile applications that provide great user experiences.
 
 ## 🌐 Socials:
