@@ -14,9 +14,6 @@ I'm Durgesh Pawar, a beginner-level native Android developer. I have developed s
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Domemaestro&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Domemaestro&icon=1&color=10)](https://visitcount.itsvg.in)
 
