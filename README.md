@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Durgesh Pawar, a beginner-level Android developer. I have developed some small projects using Kotlin. I'm passionate about learning new skills and building mobile applications that provide great user experiences.
+I'm Durgesh Pawar, an Android and Flutter developer. I'm passionate about learning new skills and building mobile applications that provide great user experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/durgesh-pawar-xome/) 
